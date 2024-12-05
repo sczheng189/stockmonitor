@@ -28,7 +28,7 @@ pip install tushare
     "alert_threshold": 0.05,
     "monitor_interval": 10,
     "max_workers": 5,
-"max_retries": 3,
+    "max_retries": 3,
     "timeout": 5,
     "positions_file": "positions.json",
     "log_file": "stock_monitor.log"
